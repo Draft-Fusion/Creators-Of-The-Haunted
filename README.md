@@ -26,6 +26,14 @@ Can of Beans, Bottle of Water, Bag of Carrot Seeds, ??? Pill, Rusted Key, Wait t
 Every day in this world is night time so you must resort to gathering things to get though it all.
 Days 5, 15, and 37 are the days when things get a little interesting.
 
+## Leveling up
+Your score will increase by ***5***! 
+One of ***3*** things will happen
+
+ 1. *Attack will increase anywhere from 1 - 6*
+ 2. *Health will increase anywhere from 1 - 6*
+ 3. *Energy will increase by 1*
+
 ## Consumables:
 
             CAN OF BEANS
@@ -45,14 +53,6 @@ Days 5, 15, and 37 are the days when things get a little interesting.
             -Nothing or Health +3
             -Exp +2
             -Level +1
-
-## Leveling up
-Your score will increase by ***5***! 
-One of ***3*** things will happen
-
- 1. *Attack will increase anywhere from 1 - 6*
- 2. *Health will increase anywhere from 1 - 6*
- 3. *Energy will increase by 1*
 
 ## Craftables:
             "Magic Water", // Tiny ruby and glass jar and Bag of carrot seed
