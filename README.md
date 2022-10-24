@@ -24,7 +24,27 @@ Can of Beans, Bottle of Water, Bag of Carrot Seeds, ??? Pill, Rusted Key, Wait t
 ## Night time cycle:
 
 Every day in this world is night time so you must resort to gathering things to get though it all.
+Days 5, 15, and 37 are the days when things get a little interesting.
 
+## Consumables:
+
+            CAN OF BEANS
+            -When eatten Health +4
+            
+            BOTTLE OF WATER
+            -When eatten Energy +4
+            
+            BAG OF CARROT SEEDS
+            -When eatten Energy +2
+            
+            PILLS
+            -When eatten one of the few things can happen
+            -Energy -3
+            -Poison +3
+            -Energy +4
+            -Nothing or Health +3
+            -Exp +2
+            -Level +1
 
 ## Craftables:
             "Magic Water", // Tiny ruby and glass jar and Bag of carrot seed
@@ -66,7 +86,7 @@ Every day in this world is night time so you must resort to gathering things to 
             -You must have 3 logs to craft it
             -This item is used to grow plants for food to heal your health
             
-         
+            
 
 ## Weapons:
 
