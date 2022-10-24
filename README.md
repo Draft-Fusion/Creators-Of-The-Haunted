@@ -46,6 +46,14 @@ Days 5, 15, and 37 are the days when things get a little interesting.
             -Exp +2
             -Level +1
 
+## Leveling up
+Your score will increase by ***5***! 
+One of ***3*** things will happen
+
+ 1. *Attack will increase anywhere from 1 - 6*
+ 2. *Health will increase anywhere from 1 - 6*
+ 3. *Energy will increase by 1*
+
 ## Craftables:
             "Magic Water", // Tiny ruby and glass jar and Bag of carrot seed
             
