@@ -46,7 +46,7 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
 ## Attacking:
 Depending on the random hit to the specific body part it would deal X damage to the enemy also vice versa
 ***Head,  Arm,  Chest,  Leg,  Neck***
-Attacking can also have a change to do critical damage as well!
+Attacking can also have a chance to do critical damage as well!
 Enemies can also use magical attack that can deal massive damage if not careful!
 
 ## Resources:
