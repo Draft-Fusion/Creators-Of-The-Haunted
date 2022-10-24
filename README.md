@@ -38,10 +38,10 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
  
 
 ## Enemies:
- *Zombie, Ghoulish Zombie, Zombie Dog, Gray Phantom, Skeleton, Mushroom Infected Zombie*
+    Zombie, Ghoulish Zombie, Zombie Dog, Gray Phantom, Skeleton, Mushroom Infected Zombie
 
 ## Bosses:
-Witch, Dragon, Thunder Bird, Fire Bird, Harpy, Succubus
+    Witch, Dragon, Thunder Bird, Fire Bird, Harpy, Succubus
 
 ## Attacking:
 Depending on the random hit to the specific body part it would deal X damage to the enemy also vice versa
@@ -50,19 +50,20 @@ Attacking can also have a change to do critical damage as well!
 Enemies can also use magical attack that can deal massive damage if not careful!
 
 ## Resources:
-Can of Beans, Bottle of Water, Bag of Carrot Seeds, ??? Pill, Rusted Key, Wait that is all there was.., Old cloth, Empty bottle, Empty can, Glass Jar
+    Can of Beans, Bottle of Water, Bag of Carrot Seeds, ??? Pill, Rusted Key,
+    Wait that is all there was.., Old cloth, Empty bottle, Empty can, Glass Jar
 
 ## Night time cycle:
-Every day in this world is night time so you must resort to gathering things to get though it all.
-Days 5, 15, and 37 are the days when things get a little interesting.
+    This world is night time so you must resort to gathering things to get though it all.
+    Days 5, 15, and 37 are the days when things get a little interesting.
 
 ## Leveling up:
-Your score will increase by ***5***! 
-One of ***3*** things will happen
+    Your score will increase by 5! 
+    One of 3 things will happen
 
- 1. *Attack will increase anywhere from 1 - 6*
- 2. *Health will increase anywhere from 1 - 6*
- 3. *Energy will increase by 1*
+    1. Attack will increase anywhere from 1 - 6
+    2. Health will increase anywhere from 1 - 6
+    3. Energy will increase by 1
 
 *The player can have a max of **20** Health & **8** Inventory slots*
 
