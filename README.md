@@ -27,14 +27,14 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
  - A: *I did not realize that Java is not like C++ where you could just run the program in a cmd it required a GUI*
 
 ## Unused:
-**Poison** *was going to be used as a way to get sick so you had to cure it with a pill*
-**Bottles / Glass Jars** *can collect water & Store seeds*
-**Knifes / Sharp Sticks** *could be crafted with a pill to possibly make it poisonous*
-**Wooden Container** *was going to be used to store 6 items (Crafting it requires 2 logs + 2 Sticks)*
-**First Aid Kit** *can fully restore and cure all alignments*
-**Skull key** *was going to be used for obtaining harder to get item OR it was going to be used to goto an underground area (AKA boss labyrinth) it was not decided all together.*
-**Elemental bosses** *was going to be just an interesting fight like *ICE, FIRE, WATER, WIND**
-**Weather Cycle** *was just going to add more to the game for both story & seed growth (3-4 days for 1 to grow*)
+    [Poison] was going to be used as a way to get sick so you had to cure it with a pill
+    [Bottles / Glass Jars] can collect water & Store seeds
+    [Knifes / Sharp Sticks] could be crafted with a pill to possibly make it poisonous
+    [Wooden Container] was going to be used to store 6 items (Crafting it requires 2 logs + 2 Sticks)
+    [First Aid Kit] can fully restore and cure all alignments
+    [Skull key] was going to be used for obtaining harder to get item OR it was going to be used to goto an underground area (AKA boss labyrinth) it was not decided all together.
+    [Elemental bosses] was going to be just an interesting fight like *ICE, FIRE, WATER, WIND
+    [Weather Cycle] was just going to add more to the game for both story & seed growth (3-4 days for 1 to grow)
  
 
 ## Enemies:
