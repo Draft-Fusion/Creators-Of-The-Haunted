@@ -76,10 +76,3 @@ Every day in this world is night time so you must resort to gathering things to 
          
 I hope this gives some incite on all of the items and other things found within the game itself :)
 Please enjoy it <3
-
-            Sharp Stick -Player attack +1
-            Torch       -Player attack +2
-            Knife       -Player attack +3
-         
-I hope this gives some insite on all of the items and other things found within the game itself :)
-Please enjoy it <3
