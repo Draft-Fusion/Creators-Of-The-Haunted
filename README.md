@@ -14,8 +14,17 @@ Remember this game is about *resources* and *managing* ***3*** things
 
 ## Questions and Answers:
 
- - Q: *Is there a end game?*
+ - Q: ***Is there a end game?***
  - A: *The idea was to beat a end boss that was an evil Mage (But not yet implemented)*
+
+ - Q: ***Did you use a game design document?***
+ - A: *Nope! I never plan out my ideas, I just do them and think about them as I go.*
+ - Q: ***How did you come up with the name?***
+ - A: *Well It was hard but I thought about the game of Minecraft and wanted horror aspect to a text adventure game. The hard part was coming up with something that seemed reasonable to what would be fun to play. So why not a hub area and the outside of it is the scary places. Although something might come out from the shadows..*
+ - Q: ***What are some of the games inspirations?***
+ - A: *Minecraft, Binding of Issac, Zork, Rouge, 7 Days To Die, Project Zomboid, EarthBound, Zombies Are My Neighbors*
+ - Q: ***Why did you not submit the game when you "finished" it?***
+ - A: *I did not realize that Java is not like C++ where you could just run the program in a cmd it required a GUI*
 
 ## Resources:
 
