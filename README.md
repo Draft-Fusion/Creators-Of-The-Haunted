@@ -38,9 +38,12 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
  
 
 ## TO FIX LIST:
-Non-created traps go off
-Enemies could kill you in 1 shot
-Enemies could miss every attack
+	Non-created traps go off
+	Enemies could kill you in 1 shot
+	Enemies could miss every attack
+	Somtimes enemies will have too low of health
+	World Traps are not removed
+	Chest rate for Old gray chest is wayyy too high
 
 ## Enemies:
     Zombie, Ghoulish Zombie, Zombie Dog, Gray Phantom, Skeleton, Mushroom Infected Zombie
