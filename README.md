@@ -37,6 +37,11 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
     [Weather Cycle] was just going to add more to the game for both story & seed growth (3-4 days for 1 to grow)
  
 
+## TO FIX LIST:
+Non-created traps go off
+Enemies could kill you in 1 shot
+Enemies could miss every attack
+
 ## Enemies:
     Zombie, Ghoulish Zombie, Zombie Dog, Gray Phantom, Skeleton, Mushroom Infected Zombie
 
