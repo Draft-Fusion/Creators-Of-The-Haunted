@@ -144,3 +144,8 @@ Enemies can also use magical attack that can deal massive damage if not careful!
          
 I hope this gives some incite on all of the items and other things found within the game itself :)
 Please enjoy it <3
+
+P.S.
+
+Currently working on the game to fix the issues.
+1.5.0v will be out soon!
