@@ -1,5 +1,6 @@
 
-# Creators-Of-The-Haunted 1.4.8v Alpha
+
+# Creators-Of-The-Haunted 1.4.9v Alpha
 *A game for a jam game that was not finished.*
 ------------------------------------------
 
@@ -9,9 +10,9 @@ Keep in mind this is not a complete list of detailed info on this game as there 
 Input a name like Kim or whatever name you want!
 Remember this game is about *resources* and *managing* ***3*** things as well as leveling up!
 
- - Energy
- - Health
- - Time
+	 - Energy
+	 - Health
+	 - Time
 
 ## Questions and Answers:
  - Q: ***Is there a end game?***
@@ -37,13 +38,25 @@ Remember this game is about *resources* and *managing* ***3*** things as well as
     [Weather Cycle] was just going to add more to the game for both story & seed growth (3-4 days for 1 to grow)
  
 
-## TO FIX LIST:
-	Non-created traps go off
-	Enemies could kill you in 1 shot
-	Enemies could miss every attack
-	Somtimes enemies will have too low of health
-	World Traps are not removed
-	Chest rate for Old gray chest is wayyy too high
+## FIXED LIST:
+	Text fixes:
+	-Surprisingly your energy increase by: -> increased
+	-Switched [??? Pill] -> [Pill ???]
+	
+	Other:
+	RNG is now fixed
+	More compacted code
+	Uppercase items that needed to be
+	POW!!! Damage is now the right output value
+	Wooden traps now can only be made with Sharp Sticks
+	In battle it will make lots of new lines -> Removed battle added long lines
+
+## TO FIX LIST
+	Over healing health
+	Campfire resets HP?
+	Old Gray chest -> Encounter rate is too high
+	Bag Of Carrots can be made to make infinate Carrots
+	Campfire cannot show up as a build option when you make a sharp stick?
 
 ## Enemies:
     Zombie, Ghoulish Zombie, Zombie Dog, Gray Phantom, Skeleton, Mushroom Infected Zombie
@@ -76,71 +89,71 @@ Enemies can also use magical attack that can deal massive damage if not careful!
 *The player can have a max of **20** Health & **8** Inventory slots*
 
 ## Consumables:
-            CAN OF BEANS
-            -When eatten Health +4
+	CAN OF BEANS
+	-When eatten Health +4
             
-            BOTTLE OF WATER
-            -When eatten Energy +4
+	BOTTLE OF WATER
+	-When eatten Energy +4
             
-            BAG OF CARROT SEEDS
-            -When eatten Energy +2
+	BAG OF CARROT SEEDS
+	-When eatten Energy +2
             
-            PILLS
-            -When eatten one of the few things can happen
-            -Energy -3
-            -Poison +3
-            -Energy +4
-            -Nothing or Health +3
-            -Exp +2
-            -Level +1
+	PILLS
+	-When eatten one of the few things can happen
+	-Energy -3
+	-Poison +3
+	-Energy +4
+	-Nothing or Health +3
+	-Exp +2
+	-Level +1
 
 ## Craftables:
-            "Magic Water", // Tiny ruby and glass jar and Bag of carrot seed
+	"Magic Water", // Tiny ruby and glass jar and Bag of carrot seed
             
-            BAG OF CARROT SEEDS
-            -Only obtainable from chest loot
-            -Can give 1 - 3 carrot seeds
-            -When eatten Energy +2
+	BAG OF CARROT SEEDS
+	-Only obtainable from chest loot
+	-Can give 1 - 3 carrot seeds
+	-When eatten Energy +2
 						
-            CARROT SEED
-            -Health +1
-            -Exp +1
+	CARROT SEED
+	-Health +1
+	-Exp +1
             
-            CARROT
-            -Energy +2
-            -Exp +1
+	CARROT
+	-Energy +2
+	-Exp +1
             
-            CAMPFIRE
-            -You must have 2 sticks & 1 log to craft it
-            -Health +1 & Energy +1
-            -Exp +1
+	CAMPFIRE
+	-You must have 2 sticks & 1 log to craft it
+	-Health +1 & Energy +1
+	-Exp +1
             
-            SHARP STICK
-            -You must have 1 stick & 1 rock to craft it
-            -Increases your overall attack (So far it can be stacked, will be removed later on)
-            -Exp +2
+	SHARP STICK
+	-You must have 1 stick & 1 rock to craft it
+	-Increases your overall attack (So far it can be stacked, will be removed later on)
+	-Exp +2
             
-            TORCH
-            -You must have 1 stick & 1 old cloth to craft it
-            -Atk +2
-            -Exp +2
+	TORCH
+	-You must have 1 stick & 1 old cloth to craft it
+	-Atk +2
+	-Exp +2
             
-            WOODEN TRAP
-            -You must have 3 stick to craft it
-            -Used to insnare an enemy making for easier gameplay
-            -Exp +1
+	WOODEN TRAP
+	-You must have 3 sharp sticks to craft it
+	-Used to ensnare an enemy making for easier game play
+	-Exp +1
             
-            WOODEN PLANTER
-            -You must have 3 logs to craft it
-            -This item is used to grow plants for food to heal your health
+	WOODEN PLANTER
+	-You must have 3 logs to craft it
+	-This item is used to grow plants for food to heal your health
             
             
 
 ## Weapons:
 
-            Sharp Stick 						-Player attack +1
-            Torch       						-Player attack +2
-            Knife       						-Player attack +3
+	Sharp Stick 						-Player attack +1
+	Torch       						-Player attack +2
+	Knife       						-Player attack +3
          
 I hope this gives some incite on all of the items and other things found within the game itself :)
 Please enjoy it <3
